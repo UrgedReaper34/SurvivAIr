@@ -1,0 +1,3 @@
+Canvas
+Pixels are rendered onto a canvas with the name "ctx" using "webgl"
+Get canvas, get array of pixels by canvas.getContext("webgl")
